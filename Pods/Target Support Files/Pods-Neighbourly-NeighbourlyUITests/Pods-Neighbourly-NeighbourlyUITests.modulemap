@@ -1,0 +1,6 @@
+framework module Pods_Neighbourly_NeighbourlyUITests {
+  umbrella header "Pods-Neighbourly-NeighbourlyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Neighbourly {
+  umbrella header "Pods-Neighbourly-umbrella.h"
+
+  export *
+  module * { export * }
+}
